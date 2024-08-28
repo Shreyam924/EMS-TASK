@@ -1,7 +1,7 @@
 ***********  Employee Management System (EMS) ***************
 This project is a Spring Boot-based Employee Management System (EMS) that implements role-based access control and provides basic CRUD operations for managing employees.
 
-Features
+
 1.Role-Based Access Control:
   Restrict access to certain endpoints based on user roles (ADMIN, USER).
   Only users with the ADMIN role can create, update, or delete employees.
